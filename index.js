@@ -1,3 +1,3 @@
-export default data={
+export const data={
     "leiwen":"123"
 }
